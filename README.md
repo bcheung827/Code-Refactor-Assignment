@@ -5,3 +5,5 @@ The purpose of this project is to refactor the html document of this website (Ho
 **Technologies Used**
 -html
 -CSS
+
+![_C__Users_bcheu_code-refactor_index html (1)](https://user-images.githubusercontent.com/83896907/158040857-62281708-73cb-42b1-8a55-14c4e2282c6d.png)
